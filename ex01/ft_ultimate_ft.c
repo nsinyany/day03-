@@ -6,18 +6,12 @@
 /*   By: nsinyany <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/24 10:25:47 by nsinyany          #+#    #+#             */
-/*   Updated: 2020/06/24 10:48:02 by nsinyany         ###   ########.fr       */
+/*   Updated: 2020/06/25 13:28:23 by nsinyany         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 void ft_ultimate_ft(int **********nbr){
 
-	int nbr;
-	int *nbr;
-	int **nbr;
-	
-	nbr = 42
-	
-		*nbr = &nbr
+	*********nbr = 42;
 
 }
